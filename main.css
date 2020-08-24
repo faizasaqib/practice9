@@ -1,0 +1,11 @@
+.box{
+	width:400px;
+	height:400px;
+	margin:200px auto;
+	border:15px inset green;
+	background:repeating-radial-gradient(red 26%, blue 40% , indigo 60% ,yellow);
+}
+.box p{
+	padding:100px 100px;
+	margin:20px auto;
+}
